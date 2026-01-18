@@ -13,5 +13,3 @@ class Solution(object):
                return [num[complement], i]
             num[current] = i
         return []
-        
-        return num
